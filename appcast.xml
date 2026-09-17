@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>DROP</title>
+    <item>
+      <title>DROP 0.1.1</title>
+      <pubDate>Thu, 17 Sep 2026 11:41:07 +0700</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Phát hành một chạm: tự commit, push, đăng bản cập nhật</li><li>Tự cập nhật bản DMG bằng Sparkle, đăng lên tankadev/drop-macos-releases</li><li>tuỳ chọn ẩn icon Dock, chỉ chạy trên thanh menu; Cài đặt chỉ hiện đúng cửa sổ Cài đặt</li></ul>]]></description>
+      <enclosure url="https://github.com/tankadev/drop-macos-releases/releases/download/v0.1.1-b7/DROP-0.1.1-b7.dmg" type="application/octet-stream" sparkle:edSignature="X+syMij7sPvRD7ADj88PB9kfAZykkDLNnMaoriwjvrE56pzLo67K+nksKbgXCYdsyd4Ya8dMzxM9zTz9SdlwAQ==" length="8156588"/>
+    </item>
+  </channel>
+</rss>
