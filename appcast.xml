@@ -3,6 +3,15 @@
   <channel>
     <title>DROP</title>
     <item>
+      <title>DROP 0.2</title>
+      <pubDate>Fri, 18 Sep 2026 21:59:03 +0700</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>M15 · 2: thanh điều khiển nổi lúc đang quay, kéo thả được</li><li>M15 · 1: dán ảnh khác vào lúc sửa ảnh (⌘V), kéo góc giữ tỉ lệ</li><li>bàn giao từ bản Windows — dán ảnh khác vào lúc sửa ảnh (M7) và thanh điều khiển kéo thả lúc quay (M8)</li><li>ghi rõ text/html là HTML thuần (Windows bỏ / dựng lại header CF_HTML) và luật bỏ clip trùng id (50 id gần nhất)</li><li>chốt cổng bản DROP Dev 47825 / 47826 cho mọi nền tảng (cả Windows)</li><li>drop-sync-peer: thôi nối --peer khi máy đó đã bị gỡ khỏi nhóm (như app)</li><li>drop-sync-peer thêm /remove, /rename, luật trùng kết nối như app; ghi kết quả thử với bản Windows</li></ul>]]></description>
+      <enclosure url="https://github.com/tankadev/drop-macos-releases/releases/download/v0.2-b11/DROP-0.2-b11.dmg" type="application/octet-stream" sparkle:edSignature="UD/kCH5Ty4gg4Uo4Vl9AMYmvQ+7A1+33Ejjztzrri0KTHa8NRpMOX6Sin3MFcPJxooIGl5dmDD1LhVvVkNf0DQ==" length="10313697"/>
+    </item>
+    <item>
       <title>DROP 0.1.4</title>
       <pubDate>Thu, 17 Sep 2026 19:13:38 +0700</pubDate>
       <sparkle:version>10</sparkle:version>
