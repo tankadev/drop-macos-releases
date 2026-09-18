@@ -3,6 +3,15 @@
   <channel>
     <title>DROP</title>
     <item>
+      <title>DROP 0.2.1</title>
+      <pubDate>Fri, 18 Sep 2026 22:26:54 +0700</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>copy file ảnh (Finder, màn Chụp &amp; quay) cũng gửi được sang máy khác</li></ul>]]></description>
+      <enclosure url="https://github.com/tankadev/drop-macos-releases/releases/download/v0.2.1-b12/DROP-0.2.1-b12.dmg" type="application/octet-stream" sparkle:edSignature="YB3wiJwI/JEV7nvx0oxW12q2zWCoIQ1NW3chNRfxtFsUmQEXg1dVeep7BA84LCVmVZ0OQQESgCDN1swy4LU9Bw==" length="10328391"/>
+    </item>
+    <item>
       <title>DROP 0.2</title>
       <pubDate>Fri, 18 Sep 2026 21:59:03 +0700</pubDate>
       <sparkle:version>11</sparkle:version>
