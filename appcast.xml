@@ -3,6 +3,15 @@
   <channel>
     <title>DROP</title>
     <item>
+      <title>DROP 0.2.2</title>
+      <pubDate>Tue, 22 Sep 2026 22:04:26 +0700</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>README: sửa trạng thái M14 / M18 / M19 cho khớp thực tế</li><li>Sửa ảnh: thanh công cụ vừa cửa sổ cỡ mặc định; bảng nén nói rõ số byte</li><li>Thử tay trên máy: sửa hai lỗi chỉ lộ ra khi cầm máy bấm thật</li><li>M18 · C6: App Intent &quot;Gửi tới thiết bị của tôi&quot; — xong toàn bộ M18</li><li>M18 · C5: nút dán của hệ thống thay nút thường, iPad có mục Clipboard</li><li>M18 · C3 và C4: tab Clipboard trên iPhone, dọn dung lượng và xoá theo khoảng</li><li>M18 · C1 và C2: công tắc chia sẻ theo từng thiết bị, tự dán trên iPhone</li><li>giao diện sửa video — cắt nhiều đoạn, chèn chữ, dải thời gian, thanh phát dưới video</li><li>tầng dữ liệu sửa video — ghép nhiều đoạn và đốt chữ vào hình</li><li>giao diện khung vẽ nở ra — ảnh gốc thành một lớp, ghép ảnh, thả file ảnh</li><li>tầng dữ liệu khung vẽ nở ra — đọc và ghi được annotations.json định dạng 4</li><li>ba việc hiệu năng khu Chụp &amp; quay + báo rõ khi ⌘V không có gì</li><li>&quot;Nén ảnh…&quot; trong khu Chụp &amp; quay — nén ra bản riêng, ảnh gốc giữ nguyên</li><li>cỡ chữ gõ tuỳ ý 8–200 khi sửa ảnh, không còn bó trong bốn mức</li><li>05 + M19: đính chính chỗ lưu mặc định của Mac, gộp hai chỗ ghi trùng nhau</li><li>chấm play trên ô video, cả dạng lưới lẫn dạng danh sách</li><li>bảng đối chiếu với bản Windows + đặc tả ba việc hiệu năng khu Chụp &amp; quay</li><li>sửa ba chỗ đặc tả ghi sai so với code — trả lời đề nghị của bản Windows</li><li>đặc tả chia sẻ theo từng thiết bị + tab Clipboard trên iPhone; M10 (iCloud) tạm dừng</li><li>05: ảnh thu nhỏ và file chưa tải về máy — bài học từ bản Windows</li><li>giới hạn mới và hai chỗ vấp khi kéo đổi cỡ</li><li>khung vẽ nở ra thành đặc tả — bản Windows đã làm xong</li><li>ghi thêm mục 7 và 8 — lớp phủ che video, cắt/chèn chữ luôn giữ bản gốc</li><li>ghi thêm mục 6 — xem trước chữ phải vẽ lên khung video lớn</li><li>ghi thêm mục 5 — dải thời gian dùng chung cho cả bảng chèn chữ</li><li>cập nhật 20/9 — bốn chỗ user thử bản Dev Windows rồi báo</li><li>bản Windows đã làm gì cho sửa video — cắt nhiều đoạn, chèn chữ, gộp khung GIF</li><li>đề xuất nới khung ảnh khi sửa — hỏi bên Mac trước khi code</li><li>ghi thêm những thứ bản Windows làm sau ngày bàn giao (19/9)</li></ul>]]></description>
+      <enclosure url="https://github.com/tankadev/drop-macos-releases/releases/download/v0.2.2-b13/DROP-0.2.2-b13.dmg" type="application/octet-stream" sparkle:edSignature="iODxzWzZ3qFcVVaR7CDONo02JsuDmIsbVPJ61wH9Ge7CMQYu4EFBou8r85HuV0mzi938vK2Hj816Fku8RvYZDQ==" length="10728658"/>
+    </item>
+    <item>
       <title>DROP 0.2.1</title>
       <pubDate>Fri, 18 Sep 2026 22:26:54 +0700</pubDate>
       <sparkle:version>12</sparkle:version>
