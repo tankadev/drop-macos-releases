@@ -3,6 +3,15 @@
   <channel>
     <title>DROP</title>
     <item>
+      <title>DROP 0.2.3</title>
+      <pubDate>Thu, 24 Sep 2026 22:33:14 +0700</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Test hết giờ: nới ngưỡng 2 → 10 giây, hết đỏ oan khi chạy cả bộ</li><li>M18 đợt hai: tab Clipboard làm lại, tab Cài đặt, gửi ảnh lớn, không nối khi ở nền</li><li>thử trên iPhone 16 Pro thật — sửa nút dán và tab Clipboard</li><li>chụp một trang dài trên Mac — và hai lỗi ghép bản Windows cũng có</li><li>M19 · D: thử tay trên máy — sửa ⌘V dán ra ngoài màn hình, kéo nút giữa</li><li>M19 · C + D: xoay ảnh dán 90°, phóng / cuộn trong trình sửa ảnh</li><li>M19 rà lần hai: chụp/quay vào thư mục đang mở, hỏi trước khi rời nhóm cũ</li></ul>]]></description>
+      <enclosure url="https://github.com/tankadev/drop-macos-releases/releases/download/v0.2.3-b14/DROP-0.2.3-b14.dmg" type="application/octet-stream" sparkle:edSignature="+4ZyY4Rs6qWHZFhb6n4v5vLP2RkDljLEGgwTN+RM0NS2opBuwNX85bELmErnR38czp91PsBNNCOjSkKtPuUxCQ==" length="10913206"/>
+    </item>
+    <item>
       <title>DROP 0.2.2</title>
       <pubDate>Tue, 22 Sep 2026 22:04:26 +0700</pubDate>
       <sparkle:version>13</sparkle:version>
