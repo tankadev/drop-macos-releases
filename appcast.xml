@@ -3,6 +3,15 @@
   <channel>
     <title>DROP</title>
     <item>
+      <title>DROP 0.2.17</title>
+      <pubDate>Sat, 03 Oct 2026 10:54:47 +0700</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.2.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Chụp &amp; quay: dán ảnh TIFF (chụp vào clipboard, copy từ app ảnh) được — đổi sang PNG thay vì lọc bỏ lặng lẽ</li><li>Thanh bên: mép dưới mờ dần như Finder / Mail thay vì nền đặc</li><li>Cài đặt: thanh bên bề ngang cố định 232, không kéo được; tên trang dài thì xuống dòng</li><li>Thanh bên: dòng đáy canh theo icon đo lúc chạy (có / không thư mục con); Chụp &amp; quay: ⌘V dán được dù focus ở đâu</li><li>Thanh bên: hai dòng đáy không còn đè lên danh sách khi cửa sổ thấp, thẳng cột với các dòng khác</li><li>Cửa sổ chính không còn tự cao kín màn hình khi vào Kho; Cài đặt luôn mở trang Chung</li><li>macOS 27: thanh bên, Cài đặt mất icon — dòng List vẽ icon + chữ bằng HStack thay vì Label</li></ul>]]></description>
+      <enclosure url="https://github.com/tankadev/drop-macos-releases/releases/download/v0.2.17-b17/DROP-0.2.17-b17.dmg" type="application/octet-stream" sparkle:edSignature="7kmPN4/Phi919hRCECSzZ2qIejv4HDyX856REuWSevl6gOMOPfH3Xsgm9UejH2hV8M4ADGGNSQwyrk6n9cPjBg==" length="12514845"/>
+    </item>
+    <item>
       <title>DROP 0.2.16</title>
       <pubDate>Fri, 02 Oct 2026 22:55:40 +0700</pubDate>
       <sparkle:version>16</sparkle:version>
