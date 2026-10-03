@@ -3,6 +3,15 @@
   <channel>
     <title>DROP</title>
     <item>
+      <title>DROP 0.2.18</title>
+      <pubDate>Sat, 03 Oct 2026 11:26:19 +0700</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.2.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Ô video nhỏ: bỏ nút phát giữa, chip thời lượng mang dấu ▶; nút Lưu xám khi chưa có gì để lưu</li><li>Sửa ảnh / sửa video: không thu cửa sổ hẹp tới mức nút Lưu bị dồn vào »</li></ul>]]></description>
+      <enclosure url="https://github.com/tankadev/drop-macos-releases/releases/download/v0.2.18-b18/DROP-0.2.18-b18.dmg" type="application/octet-stream" sparkle:edSignature="U7Ic+VHyJd+rUh/qjsjB/XwTQyXw0VmKoN33ffes1F3PSscZ2GkdLDnl7kIEUJ8hkVqhoz55AS9olN3S86NSCg==" length="12518607"/>
+    </item>
+    <item>
       <title>DROP 0.2.17</title>
       <pubDate>Sat, 03 Oct 2026 10:54:47 +0700</pubDate>
       <sparkle:version>17</sparkle:version>
