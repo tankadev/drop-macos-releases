@@ -3,6 +3,15 @@
   <channel>
     <title>DROP</title>
     <item>
+      <title>DROP 0.3</title>
+      <pubDate>Sun, 04 Oct 2026 23:35:05 +0700</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Đợt 8: kiểm rò rỉ và hiệu năng — sửa vòng giữ NoteEditorController qua closure ảnh (mỗi ghi chú từng mở bị giữ lại), thêm bài thử hiệu năng Lịch và scripts/perf-check.sh</li><li>Thanh bên gọn (W11/W13) đợt 7: thu gọn khu nhớ trạng thái, khu Đã ghim, Cài đặt › Thanh bên ẩn / đổi thứ tự khu (Premium, xem thử)</li><li>Ghi chú (W13) đợt 6: bôi đen để tạo lời nhắc — nút Nhắc trên thanh nổi (nhiều dòng chỉ còn Nhắc), thẻ Tạo lời nhắc điền sẵn bằng bộ đọc ngày giờ</li><li>Nhắc việc (W13) đợt 5b: thông báo macOS có nút, tóm tắt buổi sáng, Cài đặt › Lịch, khu Hôm nay trên bảng thả, gạch chân ngày giờ trong ghi chú với Thêm vào lịch</li><li>Nhắc việc (W13) đợt 5a: lúc nào báo, nhắc lại 10 phút, tóm tắt buổi sáng, chữ thông báo, việc kế tiếp, cài đặt Lịch — chép luật và bài thử của bản Windows</li><li>Lịch (W13) đợt 4b: khu Lịch ở thanh bên, Hôm nay / Sắp tới / Tháng, ô gõ tự nhiên, chi tiết việc thiết kế lại, thẻ khoá Premium, Đã xoá gần đây › Việc trong lịch, cửa sổ tối thiểu 960 × 560</li><li>Lịch (W13) đợt 4a: mô hình Reminder trong SwiftData, bộ đọc ngày giờ tiếng Việt, câu chữ lịch, thao tác kho và thùng rác — chép luật và bài thử của bản Windows</li><li>Họa tiết thanh bên (W13): sáu ô SVG như Windows, vẽ trong lớp kính, đậm dần về đáy, xem thử khi chưa có Premium; gỡ observer giao diện của trình soạn ghi chú</li><li>Giao diện (W13): chủ đề, màu nhấn, sáng / tối, cỡ chữ ghi chú, 5 phông OFL, xem thử khi chưa có Premium</li><li>Premium: mã mời kiểm trên máy (theo W13), mục DROP Premium trong Cài đặt › Chung, sheet App Store vẽ sẵn; thêm icon lịch / giao diện</li><li>Chụp &amp; quay: ô có khung cố định — ảnh vừa trong khung, nút phát / chip thời lượng / vòng chọn bám khung</li><li>Ô video dọc: chip thời lượng không bị bóp, nằm giữa đáy ảnh</li></ul>]]></description>
+      <enclosure url="https://github.com/tankadev/drop-macos-releases/releases/download/v0.3-b19/DROP-0.3-b19.dmg" type="application/octet-stream" sparkle:edSignature="Fohh6htD+GZsMwwcDJWTkSTd8ay+BexpjO+1Q3SJDRR68QUazd9Jjr8Mm1x+VA3g5BxH4cdHp/tWdXK18TRSCg==" length="15787011"/>
+    </item>
+    <item>
       <title>DROP 0.2.18</title>
       <pubDate>Sat, 03 Oct 2026 11:26:19 +0700</pubDate>
       <sparkle:version>18</sparkle:version>
